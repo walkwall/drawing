@@ -1,1 +1,22 @@
-<mxfile host="www.draw.io" modified="2019-12-27T08:33:02.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="riVrJAE4QN8qmCM9lyFU" version="12.4.3" type="github" pages="1"><diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">jZJNb4MwDIZ/DcdJQNSWXsu6cplWiQPnjHgkaiAoDQP26xcWhw9VlXaJkscfsV87IGk9XDRt+btiIIM4ZENAXoM4PoZHe05gdGAXHhyotGAORQvIxQ8gDJF2gsF942iUkka0W1iqpoHSbBjVWvVbty8lt7+2tIIHkJdUPtJCMMMdTeLDwjMQFfc/R3tsuKbeGTu5c8pUv0LkHJBUK2XcrR5SkJN2XhcX9/bEOhemoTH/CchuH8kVYLiemqxOigspys8XzPJNZYcNY7Fm9Apo1TUMpiRRQE49FwbylpaTtbcjt4ybWqIZ04E2MDytM5q7t1sDqgajR+viA3YoGG5MlOC7X/SPvKh8pf0eGcWRV3PqRRV7QWH8cxnAn221xeT8Cw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-27T08:34:54.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="IYjvlx7tLnp2FDzRJdCI" version="12.4.3" type="github" pages="1">
+  <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
+    <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="480" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="HkO8PeexPBnHm8WG3Wcb-1" value="最新构建是dev" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-1" value="最新构建是feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建的是跨Rom版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
