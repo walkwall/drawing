@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T08:37:56.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dQwGLo7f_7oB_Xpfxo5q" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T08:38:38.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="KuGRpsETlmvgqiONZm7I" version="12.4.3" type="github" pages="1">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
     <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建的是跨Rom版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建的是跨Rom的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
