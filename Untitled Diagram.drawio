@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T08:34:54.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="IYjvlx7tLnp2FDzRJdCI" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T08:36:45.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7KGNE7-toMtJVCCP6p-f" version="12.4.3" type="github" pages="1">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
     <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,14 +7,40 @@
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="480" height="100" as="geometry"/>
         </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HkO8PeexPBnHm8WG3Wcb-1" target="vgUbjpSqmQ3m78ZxgBPh-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="280"/>
+              <mxPoint x="370" y="280"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HkO8PeexPBnHm8WG3Wcb-1" value="最新构建是dev" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgUbjpSqmQ3m78ZxgBPh-1" target="vgUbjpSqmQ3m78ZxgBPh-4">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-1" value="最新构建是feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vgUbjpSqmQ3m78ZxgBPh-2" target="vgUbjpSqmQ3m78ZxgBPh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="530" y="280"/>
+              <mxPoint x="370" y="280"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建的是跨Rom版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-5" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
