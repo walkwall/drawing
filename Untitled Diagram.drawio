@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T08:40:20.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="q2VAWCC45FLPp2OSUX7m" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T08:42:32.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ia2pgLykq40icHEaKHrp" version="12.4.3" type="github" pages="1">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
     <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,14 +36,17 @@
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建的是跨Rom的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="全自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-5" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="120" height="60" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-5" value="指定版本&lt;br&gt;（黑、白名单）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-13" value="构建情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="40" y="195" width="50" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-16" value="自动获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
