@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-27T08:43:36.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0acyJOC2FAwN88Di92ED" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-27T08:45:59.805Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="B7mR6ZKXBnRtjXNnYQm0" version="12.4.3" type="github" pages="1">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
     <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HkO8PeexPBnHm8WG3Wcb-1" target="vgUbjpSqmQ3m78ZxgBPh-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="280"/>
-              <mxPoint x="370" y="280"/>
+              <mxPoint x="210" y="290"/>
+              <mxPoint x="450" y="290"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,7 +19,12 @@
           <mxGeometry x="150" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vgUbjpSqmQ3m78ZxgBPh-1" target="vgUbjpSqmQ3m78ZxgBPh-4">
-          <mxGeometry relative="1" as="geometry"/>
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="290"/>
+              <mxPoint x="450" y="290"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-1" value="最新构建是feature A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry"/>
@@ -28,8 +33,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="300" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="530" y="280"/>
-              <mxPoint x="370" y="280"/>
+              <mxPoint x="530" y="290"/>
+              <mxPoint x="450" y="290"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,19 +42,25 @@
           <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="全自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="310" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-5" value="指定版本&lt;br&gt;（黑、白名单）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="120" height="60" as="geometry"/>
+          <mxGeometry x="390" y="310" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-13" value="构建情况" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="40" y="195" width="50" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-16" value="自动获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="510" width="120" height="60" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vgUbjpSqmQ3m78ZxgBPh-17" target="vgUbjpSqmQ3m78ZxgBPh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="320" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="690" y="290"/>
+              <mxPoint x="450" y="290"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vgUbjpSqmQ3m78ZxgBPh-17" value="最新构建的是跨Rom的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-22" value="1、&lt;br&gt;2、&lt;br&gt;3、" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="130" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
