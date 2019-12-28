@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T05:48:07.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ri7biUZ0ho6jYKK4Zlhx" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T05:50:25.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VldhghMLWsrI47ga0kZe" version="12.4.7" type="github">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
     <mxGraphModel dx="1149" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
             <mxPoint y="270" as="sourcePoint"/>
             <mxPoint x="980" y="270" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7iL746voWy9-eUK7LAxA-3" value="其它仓库、其它应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="200" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
