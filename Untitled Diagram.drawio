@@ -1,32 +1,38 @@
-<mxfile host="www.draw.io" modified="2019-12-27T09:43:59.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dPWPtVcr5oZ4J_TBMQUx" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-28T05:48:07.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ri7biUZ0ho6jYKK4Zlhx" version="12.4.7" type="github">
   <diagram id="FAg1cW05P3NnOw4gdnMJ" name="Page-1">
-    <mxGraphModel dx="909" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="740" height="100" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="20" width="740" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="HkO8PeexPBnHm8WG3Wcb-1" value="最新构建是dev" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="180" width="120" height="60" as="geometry"/>
+          <mxGeometry x="300" y="40" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-1" value="最新构建是feature A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-1" value="最新构建是feature A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="40" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建是feature B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="120" height="60" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-2" value="最新构建是feature B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="全自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-4" value="全自动生成json" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-13" value="制品仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="195" width="50" height="30" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-13" value="制品仓库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="190" y="55" width="50" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-17" value="最新构建的是跨Rom的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="180" width="120" height="60" as="geometry"/>
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-17" value="最新构建的是跨Rom的版本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="40" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-22" value="策略1：&lt;br&gt;1、范围：基于指定发布版本（上个现网版本）和本次构建记录的增量变化&lt;br style=&quot;font-size: 14px&quot;&gt;2、指定版本和分支（黑、白名单）&lt;br style=&quot;font-size: 14px&quot;&gt;3、最新的一次构建&lt;br&gt;&lt;br&gt;策略2：&lt;br&gt;1、最新的一次构建（强约束）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="vgUbjpSqmQ3m78ZxgBPh-22" value="策略1：&lt;br&gt;1、范围：基于指定发布版本（上个现网版本）和本次构建记录的增量变化&lt;br style=&quot;font-size: 14px&quot;&gt;2、指定版本和分支（黑、白名单）&lt;br style=&quot;font-size: 14px&quot;&gt;3、最新的一次构建&lt;br&gt;&lt;br&gt;策略2：&lt;br&gt;1、最新的一次构建（强约束）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="570" y="340" width="320" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="7iL746voWy9-eUK7LAxA-2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="270" as="sourcePoint"/>
+            <mxPoint x="980" y="270" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
