@@ -1,1 +1,89 @@
-<mxfile host="www.draw.io" modified="2020-01-03T10:44:46.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="9-ctngAjJPzfmd1V5SjS" version="12.4.8" type="github"><diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">7VrbcqM4EP0aPTrFHfEINs4kla3JpXZmdt+wUQwTQB4sx3a+fiUQ5ibbbILtrGerUglqhJDO6T5qNQHqMF5fp948+AP7KAKK5K+BOgKKIsuaRf8wy4ZbTFnOLbM09LmtNDyFb4gbJW5dhj5a1DoSjCMSzuvGKU4SNCU1m5emeFXv9oyj+lvn3gy1DE9TL2pbv4c+CXIrVMzS/gWFs6B4s2zwFcde0ZmvZBF4Pl5VTKoL1GGKMcmv4vUQRQy9Apf8ufGOu9uJpSghXR5I/h6nz7dqfHvz7c/JY2IHbz/IQOazffWiJV8xcA1guQBqwNWB4wDHBi4EcAigyiwWtWh8RWRTwJTiZeIj9iYJqM4qCAl6mntTdndFPYPaAhJHtCXTy/bM+WJeUUrQumLiK7lGOEYk3dAuxV3V4rByxxqoOjesSppkS89tQZWighCPu8ZsO3qJHr3gAIrBXCwG/ooE5sZ5eLy7+fkQ36PvA6WNZRMn5FPv4k2ckgDPcOJFbml16kiWfe4wnnP8fiJCNjxUvCXBHdFd4GU6Ldz6wX27/vJLvl/C23Bzs3mUQnVQxJeXzhDZ048vi61lL1cpijwSvtYj6SOo75t1zYM15rXMcakHm8DWgWsBqAM4Aq4JnBGw3T0eLJ/Ig+sOLEsC/y1cteq/xrHcV/sU7ksRTTc/2PNXetH8iw+XNUbrWmvDW+93e6Xt9kJ85L7dnj96j0M65dIxGsq2FbZiiHyi/KkG59tpvN8NjP/dYK/6qRfnBvvgqMkqTQOommayCm1gQ0Gq8NlkdZtInkJW9/lLM8PKtyUKG2Q/gpzLBJBuWvmtIbCHZ4e2gayqnHvDEu38BrDp9p5lqg5NWcf/CWQV7YzQis8FHTaBxLfZAYu2Epww0fe9RbBFrQtCBzW0sn5dsPzC9kGphU3NkBqw5ntHS2rbmm3CAyP1J9pC2kSiLTzNacCyd/s/dVtSp3BBUvyChjjCacn3cxhFDZMXhbOENqeUakTtDguCkB6nbX4jDn0/yxBEUVXPGnoILGg0+BAElsix+jgiCgkSbAYXHFdFlYSjrzdh7R5X5oGRjhxXXY5GF0ubqltXek/ECcY6MnW6QBLfkcderCSq8MySKP/WmjjQ+tLE1khHDixZIIqCZONg4e1iI2sgOHqeNLKKgWuRZUQM7cXcS2o0GL+W7ENEjtRgkUNFZVBKcBp7UdmBXs2yvwKus2OtY/DEkqlo/jY6+/yF/FFunqQfnELP4/QDCjtbOpXKcxsmFVDNhXL2NUUutp8hsISH1UpnGjxWA+XGprUD7p3H2xN9rNEUvR4ZwqrM0T7WiIPDFMiXCSyN8wAhsCSBfLW/hR0+T528CKY1ioeaIcD7pAUFBbbgfsRxloGNWRTklTAKayWmi5iifaifG7yzkyVwlAlHyp4agcJxKogvAm/OLqfLyS79r0A+yfm5m2wN3vRllrH2dUmikO02md330pevdJiQZPXmK0mvG5XM2heLulRn0ehay4RHY7Hb5+L2nt8iVUCzkQWWWVE6nUUhzJVOA/a4ooYdOjNkHPb73xT8TqSIhqZcNTRRlIifWBNVkSb2R+/BOlSV3mbn7JOubXIybesTcNgo9g22FfIzMtiWWR4ZTqaflprBqzFUrbxKbrOLjnz9DqrbpFUXxWVPqkub5T8A5Qez8v+oVPcf</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-03T10:46:18.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="lWXTLYkdeVgcIxkCRDWk" version="12.4.8" type="github">
+  <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
+    <mxGraphModel dx="1149" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-19" value="构建范围" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="-350" width="195" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="ss-dwth7yBQRLIjQmPeW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1QEzGHq1Pu8JiyIyR0i3-1" target="1QEzGHq1Pu8JiyIyR0i3-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1QEzGHq1Pu8JiyIyR0i3-1" value="人工配置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ss-dwth7yBQRLIjQmPeW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1QEzGHq1Pu8JiyIyR0i3-2" target="ss-dwth7yBQRLIjQmPeW-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ss-dwth7yBQRLIjQmPeW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1QEzGHq1Pu8JiyIyR0i3-2" target="1QEzGHq1Pu8JiyIyR0i3-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QEzGHq1Pu8JiyIyR0i3-2" value="自动构建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1QEzGHq1Pu8JiyIyR0i3-3" value="日常构建版本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ss-dwth7yBQRLIjQmPeW-1" value="正式构建版本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-1" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="200" as="sourcePoint"/>
+            <mxPoint x="1780" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-2" value="构建脚本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="220" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-3" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="520" as="sourcePoint"/>
+            <mxPoint x="1777" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-4" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="359.5" as="sourcePoint"/>
+            <mxPoint x="1777" y="359.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="380" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="-40" as="sourcePoint"/>
+            <mxPoint x="1777" y="-40" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-14" value="创建Rom配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="860" y="-10" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-20" value="&lt;span style=&quot;white-space: normal&quot;&gt;构建时机&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;手工构建、周期构建、定时构建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1425" y="-210" width="195" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-27" value="生成配置范围脚本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="460" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-28" value="Rom发布&lt;br&gt;历史记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+          <mxGeometry x="1500" y="610" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-29" value="构建配置&lt;br&gt;&lt;br&gt;指定分支、指定分支 + 版本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1642.5" y="-380" width="195" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-37" value="构建配置&lt;br&gt;&lt;br&gt;构建脚本、构建产物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="-230" width="195" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-38" value="制品仓库&lt;br&gt;构建记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="580" width="120" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
