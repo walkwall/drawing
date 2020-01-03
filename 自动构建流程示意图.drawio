@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-03T10:25:33.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ecvv4QbEjcKtnemB40Hi" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T10:26:25.844Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="LYrEfZnBgrBttMtOflHb" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="1149" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-18" value="指定分支" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="220" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-20" value="构建配置&lt;br&gt;&lt;br&gt;指定分支、指定分支 + 版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="60" width="195" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
