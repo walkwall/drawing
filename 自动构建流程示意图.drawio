@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-03T03:44:03.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="keF4IlAL9D9C7wEArc8y" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T10:20:16.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="XMMNodpcYp2d74Jbz9w8" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
-    <mxGraphModel dx="1149" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -53,17 +53,23 @@
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="380" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-8" value="指定版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="290" width="110" height="50" as="geometry"/>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-9" value="指定分支 + 版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="290" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-9" value="指定分支" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="220" width="110" height="50" as="geometry"/>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-11" value="&lt;span style=&quot;white-space: normal&quot;&gt;配置范围&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="70" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-10" value="配置范围" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="240" width="120" height="60" as="geometry"/>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827" y="40" as="sourcePoint"/>
+            <mxPoint x="1777" y="40" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="70" width="120" height="60" as="geometry"/>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-14" value="操作页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="70" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-18" value="指定分支" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="110" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
