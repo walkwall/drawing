@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-03T10:46:18.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="lWXTLYkdeVgcIxkCRDWk" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-03T10:55:54.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="aYaohpLHy29UsuEy9zz8" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
-    <mxGraphModel dx="1149" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -82,6 +82,14 @@
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-38" value="制品仓库&lt;br&gt;构建记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
           <mxGeometry x="1680" y="580" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-9" value="Table" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#99FF99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=none;align=center;fontSize=14;rotation=0;labelBackgroundColor=none;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="160" height="52" as="geometry">
+            <mxRectangle x="960" y="380" width="70" height="26" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-10" value="Row 1" style="text;strokeColor=none;fillColor=#99FF99;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="KfT1uw90EwnDU38vpwOy-9">
+          <mxGeometry y="26" width="160" height="26" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
