@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T10:03:12.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-7VJzY5rJxwCcMLjl1RC" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T10:06:18.284Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Ox9L-_PupvJfcGthTJpo" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="82" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,6 +263,12 @@
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-133" value="构建产物" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="850" y="934" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-142" value="1、Rom版本&lt;br&gt;2、最新的Rom版本为活跃版本&lt;br&gt;3、只有活跃版本才会触发自动构建&lt;br&gt;4、" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="214" width="210" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-147" value="1、" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=#ffffff;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="500" width="210" height="78" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
