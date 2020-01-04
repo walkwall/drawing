@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T09:27:42.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="KrJpSd8LK5PEFTeRrbQ6" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T09:28:37.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="33qRqYFmWD_BgrjrlklB" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="82" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-2" value="构建配置" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="220" width="60" height="20" as="geometry"/>
+          <mxGeometry x="850" y="220" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-3" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="构建触发" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="520" width="55" height="20" as="geometry"/>
+          <mxGeometry x="850" y="520" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -250,8 +250,8 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-124" value="1、Rom产物列表&lt;br&gt;2、Rom构建历史记录&lt;br&gt;3、Rom发布历史记录&lt;br&gt;4、制品仓库构建记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=left;" vertex="1" parent="1">
           <mxGeometry x="983" y="830" width="150" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="KfT1uw90EwnDU38vpwOy-133" value="构建产物" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="820" width="55" height="20" as="geometry"/>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-133" value="构建产物" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="850" y="820" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
