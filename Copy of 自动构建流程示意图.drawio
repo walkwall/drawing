@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T08:13:50.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-Gak8ooEXww8cTevQGFs" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T08:23:19.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="5PkpngZ47F-tGIhwowAt" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="909" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,23 +38,23 @@
             <mxPoint x="1780" y="200" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-2" value="Rom配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-2" value="构建配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="220" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-3" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="827" y="520" as="sourcePoint"/>
-            <mxPoint x="1777" y="520" as="targetPoint"/>
+            <mxPoint x="850" y="710" as="sourcePoint"/>
+            <mxPoint x="1800" y="710" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-4" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="827" y="359.5" as="sourcePoint"/>
-            <mxPoint x="1777" y="359.5" as="targetPoint"/>
+            <mxPoint x="827" y="500" as="sourcePoint"/>
+            <mxPoint x="1777" y="500" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="860" y="380" width="50" height="20" as="geometry"/>
+          <mxGeometry x="865" y="520" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,10 +69,10 @@
           <mxGeometry x="1425" y="-210" width="195" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-27" value="生成配置范围脚本" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="1513" y="650" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-28" value="Rom发布&lt;br&gt;历史记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="610" width="120" height="80" as="geometry"/>
+          <mxGeometry x="1523" y="800" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-29" value="构建配置&lt;br&gt;&lt;br&gt;指定分支、指定分支 + 版本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1642.5" y="-380" width="195" height="120" as="geometry"/>
@@ -81,7 +81,7 @@
           <mxGeometry x="1680" y="-230" width="195" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-38" value="制品仓库&lt;br&gt;构建记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="580" width="120" height="80" as="geometry"/>
+          <mxGeometry x="1703" y="770" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-32" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-25" target="KfT1uw90EwnDU38vpwOy-30">
           <mxGeometry relative="1" as="geometry">
@@ -98,6 +98,14 @@
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-25" value="存在&lt;br&gt;Rom版本？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="50" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-28" target="KfT1uw90EwnDU38vpwOy-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="177.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1225" y="163"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-28" value="创建Rom版本" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1180" y="52.5" width="90" height="45" as="geometry"/>
@@ -124,6 +132,14 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-42" value="App配置范围" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1360" y="232.5" width="90" height="45" as="geometry"/>
         </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-47" target="KfT1uw90EwnDU38vpwOy-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="255" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1580" y="323"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-47" value="配置策略：&lt;br&gt;分支、分支+版本" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1530" y="232.5" width="100" height="45" as="geometry"/>
         </mxCell>
@@ -136,8 +152,46 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-37" target="KfT1uw90EwnDU38vpwOy-39">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="KfT1uw90EwnDU38vpwOy-37" value="存在&lt;br&gt;Rom配置？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KfT1uw90EwnDU38vpwOy-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-37" target="KfT1uw90EwnDU38vpwOy-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="360" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-37" value="存在Rom&lt;br&gt;构建配置？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="230" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-57" target="KfT1uw90EwnDU38vpwOy-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-57" target="KfT1uw90EwnDU38vpwOy-70">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-57" value="存在Rom&lt;br&gt;构建时机配置？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="370" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-60" target="KfT1uw90EwnDU38vpwOy-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="365" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-60" value="Rom构建配置" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="300" width="90" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-63" value="Rom构建时机" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="440" width="90" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-70" target="KfT1uw90EwnDU38vpwOy-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="497.5" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1225" y="463"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-70" value="构建时机配置&lt;br&gt;周期、定时" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="372.5" width="90" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
