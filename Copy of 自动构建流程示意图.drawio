@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-04T08:23:19.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="5PkpngZ47F-tGIhwowAt" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-04T08:33:00.591Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="0LMGPOGduGr84-zTSI-Z" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="909" dy="1711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
             <mxPoint x="1777" y="500" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nZFrfJ3mJIVUbRnAhzXt-5" value="构建触发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="865" y="520" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nZFrfJ3mJIVUbRnAhzXt-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
@@ -132,15 +132,18 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-42" value="App配置范围" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1360" y="232.5" width="90" height="45" as="geometry"/>
         </mxCell>
-        <mxCell id="KfT1uw90EwnDU38vpwOy-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-47" target="KfT1uw90EwnDU38vpwOy-60">
+        <mxCell id="KfT1uw90EwnDU38vpwOy-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-74" target="KfT1uw90EwnDU38vpwOy-60">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1710" y="255" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="1580" y="323"/>
+              <mxPoint x="1753" y="323"/>
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KfT1uw90EwnDU38vpwOy-47" value="配置策略：&lt;br&gt;分支、分支+版本" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KfT1uw90EwnDU38vpwOy-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-47" target="KfT1uw90EwnDU38vpwOy-74">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-47" value="配置App范围：&lt;br&gt;增加、删除App" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1530" y="232.5" width="100" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-30" target="KfT1uw90EwnDU38vpwOy-37">
@@ -179,6 +182,11 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-60" value="Rom构建配置" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="300" width="90" height="45" as="geometry"/>
         </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="520" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-63" value="Rom构建时机" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="440" width="90" height="45" as="geometry"/>
         </mxCell>
@@ -192,6 +200,26 @@
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-70" value="构建时机配置&lt;br&gt;周期、定时" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1180" y="372.5" width="90" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-74" value="App配置：&lt;br&gt;分支、分支+版本" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1703" y="232.5" width="100" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-80" target="KfT1uw90EwnDU38vpwOy-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="545" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-80" value="构建类型" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="520" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfT1uw90EwnDU38vpwOy-86" target="KfT1uw90EwnDU38vpwOy-88">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-86" value="构建校验" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="522.5" width="90" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="KfT1uw90EwnDU38vpwOy-88" value="选择基准Rom" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="522.5" width="90" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
