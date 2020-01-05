@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T06:32:50.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="F1tPVSsIrz1NWjXgO4Oi" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T06:37:57.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="pdR4NbdlF22YFrZGwPYK" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="82" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-118" value="构建结果" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1011" y="834" width="110" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="KfT1uw90EwnDU38vpwOy-124" value="1、Rom产物列表&lt;br&gt;2、Rom构建历史记录&lt;br&gt;3、Rom发布历史记录&lt;br&gt;4、制品仓库构建记录" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=left;" parent="1" vertex="1">
+        <mxCell id="KfT1uw90EwnDU38vpwOy-124" value="&lt;font color=&quot;#ff0000&quot;&gt;1、Rom产物列表&lt;br&gt;2、Rom构建历史记录&lt;br&gt;3、Rom发布历史记录&lt;br&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;align=left;" parent="1" vertex="1">
           <mxGeometry x="983" y="944" width="150" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-133" value="构建产物" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
