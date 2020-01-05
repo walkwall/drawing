@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T06:39:31.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="jehgFoMD4idPksQXSfi5" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T06:40:10.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NxR3u4nqISZZcRdwQzl0" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="82" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,11 @@
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KfT1uw90EwnDU38vpwOy-47" target="KfT1uw90EwnDU38vpwOy-74" edge="1">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ytVhLEV6iYRES8mMqSiO-7" value="人工配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="KfT1uw90EwnDU38vpwOy-75">
+          <mxGeometry x="0.2055" y="2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-17.5" as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KfT1uw90EwnDU38vpwOy-47" value="配置App范围：&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;增加、删除&lt;/font&gt;App" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1530" y="346.5" width="100" height="45" as="geometry"/>
