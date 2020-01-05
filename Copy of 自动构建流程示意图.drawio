@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T06:39:01.620Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="UNbyK574-FRcRkqARjp5" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T06:39:31.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="jehgFoMD4idPksQXSfi5" version="12.4.8" type="github">
   <diagram id="ApW3DDrOjDALBpVBkcUd" name="Page-1">
     <mxGraphModel dx="82" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,18 +264,10 @@
         <mxCell id="KfT1uw90EwnDU38vpwOy-133" value="构建产物" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="850" y="934" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ytVhLEV6iYRES8mMqSiO-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1130" width="30" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="ytVhLEV6iYRES8mMqSiO-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="ytVhLEV6iYRES8mMqSiO-1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="1220" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ytVhLEV6iYRES8mMqSiO-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1051" y="90" width="30" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="ytVhLEV6iYRES8mMqSiO-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="ytVhLEV6iYRES8mMqSiO-5" parent="1">
+        <mxCell id="ytVhLEV6iYRES8mMqSiO-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;" edge="1" source="ytVhLEV6iYRES8mMqSiO-5" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1066" y="164" as="targetPoint"/>
           </mxGeometry>
