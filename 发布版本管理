@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:15:08.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-92oESk9k3NlkebstJD0" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:15:43.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ftFMwnvN9EiylZB_1nMF" version="13.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="911" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,13 +61,13 @@
           <mxGeometry x="380" y="630" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-72" value="主干版本&lt;br&gt;X2Pro" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="630" width="90" height="45" as="geometry" />
+          <mxGeometry x="703" y="630" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-73" value="X2&lt;br&gt;Z1&lt;br&gt;X2Mini&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="730" width="90" height="65" as="geometry" />
+          <mxGeometry x="703" y="740" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-74" value="版本发布任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="865" width="90" height="45" as="geometry" />
+          <mxGeometry x="703" y="877.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-78" value="Rom版本" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="890" width="80" height="20" as="geometry" />
