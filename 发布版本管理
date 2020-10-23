@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:38:39.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DJpTrOOJcILju9YttGO0" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:42:23.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vxAIvOaEgUck2BAVB4RQ" version="13.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="911" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,6 +86,12 @@
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-85" value="存在计划" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1090" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHXkW4gfArKcQEpRogX-93" value="X1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="743" y="1240" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHXkW4gfArKcQEpRogX-94" value="非主干发布任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="743" y="1400" width="140" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
