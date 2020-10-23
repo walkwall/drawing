@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T06:33:34.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tmDBwP1CJ0QujMJMuhsU" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T06:38:39.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="DJpTrOOJcILju9YttGO0" version="13.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="911" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,13 +73,16 @@
           <mxGeometry x="703" y="700" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-80" value="&lt;span&gt;需求-版本发布计划&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="1201.5" width="140" height="45" as="geometry" />
+          <mxGeometry x="475" y="1201.5" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-82" value="版本发布任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="768" y="1201.5" width="140" height="45" as="geometry" />
+          <mxGeometry x="475" y="1300" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-83" value="存在&lt;br&gt;Rom版本？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3rHXkW4gfArKcQEpRogX-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3rHXkW4gfArKcQEpRogX-85" target="3rHXkW4gfArKcQEpRogX-80">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3rHXkW4gfArKcQEpRogX-85" value="存在计划" style="rhombus;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1090" width="110" height="50" as="geometry" />
